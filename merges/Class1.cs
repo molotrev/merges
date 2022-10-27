@@ -10,7 +10,7 @@ namespace merges
     {
         public string Lorem()
         {
-            return "Lorem Ipsum";
+            return "Lorem Ipsum dolor si amet";
         }
     }
 }

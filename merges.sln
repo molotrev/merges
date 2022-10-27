@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "merges", "merges\merges.csproj", "{FD773D6A-F7A9-4F2E-BC19-71CB74F8AB65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestProject", "MyTestProject\MyTestProject.csproj", "{8F2171EC-ED5D-4825-BD5B-53E6B5A1B46D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD773D6A-F7A9-4F2E-BC19-71CB74F8AB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD773D6A-F7A9-4F2E-BC19-71CB74F8AB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD773D6A-F7A9-4F2E-BC19-71CB74F8AB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2171EC-ED5D-4825-BD5B-53E6B5A1B46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2171EC-ED5D-4825-BD5B-53E6B5A1B46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2171EC-ED5D-4825-BD5B-53E6B5A1B46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2171EC-ED5D-4825-BD5B-53E6B5A1B46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
